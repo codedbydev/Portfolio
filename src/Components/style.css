@@ -1,0 +1,15 @@
+.parallax-effect-glare-scale {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    margin: 40px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    /* border-color: blueviolet; */
+    border-image: linear-gradient(to right, rgba(245, 177, 74, 0.813), rgba(132, 12, 192),rgba(221, 73, 142, 0.813)) 1;
+    transform-style: preserve-3d;
+};
